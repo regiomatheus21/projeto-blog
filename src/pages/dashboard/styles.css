@@ -1,0 +1,32 @@
+
+.conteiner-dashboard h2{
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+    text-align: center;
+
+}
+
+.conteiner-dashboard p{
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+
+}
+/*Linha do cabeçalho*/
+.post-heder{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    border-bottom: 2px solid #ccc;
+    width: 80%;
+    padding: 10px;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    
+}
+
+.post-dashboard-ajuste{
+    margin-left: 10%;
+}
+
+

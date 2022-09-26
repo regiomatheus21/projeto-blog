@@ -1,0 +1,14 @@
+.modal-titlo{
+    display: flex;
+}
+
+.modal-descri{
+    margin-left: 23%;
+   margin-top: -0px;
+}
+
+.descricao-title{
+    margin-left: 48%;
+    margin-top: 20px;
+    
+}

@@ -1,0 +1,76 @@
+.conteiner-post-individual{
+    display: flex;
+    margin: 20px 40px;
+    box-shadow: rgba(0,0,0, .15) 0px -2px 10px 0px;
+    padding: 10px 10px;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+}
+.conteiner-post-individual h2{
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.conteiner-post-individual p{
+    margin: 0px 40px;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.conteiner-post-individual Button{
+    margin-left: 85%;
+    font-size: .7em;
+}
+
+.conteiner-post-individual div{
+    margin-left: 70%;
+}
+
+
+.conteiner-infor-pessoal{
+    display: flex;
+    margin: 20px 40px;
+    box-shadow: rgba(0,0,0, .15) 0px -2px 10px 0px;
+    padding: 10px 10px;
+    flex-direction: column;
+    border-radius: 6px;
+
+}
+
+.conteiner-infor-pessoal h2{
+    margin-left: 43%;
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.conteiner-infor-pessoal p {
+    font-family: 'Roboto', sans-serif;  
+}
+
+.Outros-post-user-1{
+    display: flex;
+    margin: 20px 40px;
+    box-shadow: rgba(0,0,0, .15) 0px -2px 10px 0px;
+    padding: 10px 10px;
+    flex-direction: column;
+    border-radius: 6px;
+   
+}
+
+.Outros-post-user-1 h2{
+    margin-left: 43%;
+    font-size: 1em;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.Outros-post-user-1 p{
+    font-family: 'Roboto', sans-serif;
+    
+   
+}

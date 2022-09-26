@@ -1,0 +1,31 @@
+.conteiner-post{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    flex-direction: column;
+    box-shadow: rgba(0,0,0, .15) 0px -2px 10px 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    
+}
+.conteiner-post div img {
+    width: 44vw;
+    border-radius: 6px;
+    height: 17vw;
+}
+.conteiner-post div:nth-child(2){
+    max-width: 45vw;
+}
+.post-date{
+    font-size: 0.9rem;
+    margin-top: 5px;
+
+}
+.post-tittle{
+    margin-top: 10px;
+}
+.post-descricao{
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+

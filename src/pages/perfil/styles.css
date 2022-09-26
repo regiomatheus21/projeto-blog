@@ -1,0 +1,28 @@
+.titulo-perfil-user h2{
+    font-size: 1em;
+    margin-left: 45%;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+.Albuns-perfil-user{
+    box-shadow: rgba(0,0,0, .15) 0px -2px 10px 0px;
+    margin: 10px 30px;
+    padding: 10px 10px;
+    
+}
+
+.Albuns-perfil-user h2{
+    font-size: 1em;
+    margin-left: 44%;
+    font-family: 'Montserrat', sans-serif;
+}
+.Albuns-perfil-user p{
+    margin-left: 43%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fotos-album-user{
+    margin-left: 47%; 
+  
+}
